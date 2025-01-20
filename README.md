@@ -1,5 +1,6 @@
 # Lending Club Case Study
 > Performing EDA on a Loan Dataset from a Bank and provide inferences on the parameters which influences the probability of default and provide any other meaningful references
+> NOTE : Please change the location from where you are reading the loan file in the notebook, before running Jupyter Notebook
 
 
 ## Table of Contents
